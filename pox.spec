@@ -4,7 +4,7 @@
 #
 Name     : pox
 Version  : 0.3.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/uqfoundation/pox/releases/download/pox-0.3.0/pox-0.3.0.tar.gz
 Source0  : https://github.com/uqfoundation/pox/releases/download/pox-0.3.0/pox-0.3.0.tar.gz
 Summary  : utilities for filesystem exploration and automated builds
@@ -71,7 +71,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1638309342
+export SOURCE_DATE_EPOCH=1638309754
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
