@@ -4,7 +4,7 @@
 #
 Name     : pox
 Version  : 0.3.2
-Release  : 10
+Release  : 11
 URL      : https://github.com/uqfoundation/pox/releases/download/pox-0.3.2/pox-0.3.2.tar.gz
 Source0  : https://github.com/uqfoundation/pox/releases/download/pox-0.3.2/pox-0.3.2.tar.gz
 Summary  : utilities for filesystem exploration and automated builds
