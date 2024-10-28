@@ -7,7 +7,7 @@
 #
 Name     : pox
 Version  : 0.3.5
-Release  : 16
+Release  : 17
 URL      : https://github.com/uqfoundation/pox/releases/download/0.3.5/pox-0.3.5.tar.gz
 Source0  : https://github.com/uqfoundation/pox/releases/download/0.3.5/pox-0.3.5.tar.gz
 Summary  : utilities for filesystem exploration and automated builds
